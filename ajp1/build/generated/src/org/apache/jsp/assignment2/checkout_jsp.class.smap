@@ -1,0 +1,23 @@
+SMAP
+checkout_jsp.java
+JSP
+*S JSP
+*F
++ 0 checkout.jsp
+assignment2/checkout.jsp
++ 1 header.jsp
+assignment2/../header.jsp
++ 2 footer.jsp
+assignment2/../footer.jsp
+*L
+1:62
+1#1,26:63
+26,32:89
+58,2:121,3
+60,9:127
+2#0,27:136
+29,29:164
+57,21:193
+1#2,32:213
+77#0:245
+*E

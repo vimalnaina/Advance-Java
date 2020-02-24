@@ -1,0 +1,18 @@
+SMAP
+tablegenerator_jsp.java
+JSP
+*S JSP
+*F
++ 0 tablegenerator.jsp
+tablegenerator.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,2:59
+1#1,36:61
+3#0,38:97
+1#2,32:134
+40#0:166
+*E

@@ -1,0 +1,23 @@
+SMAP
+ecommerce_jsp.java
+JSP
+*S JSP
+*F
++ 0 ecommerce.jsp
+assignment2/ecommerce.jsp
++ 1 header.jsp
+assignment2/../header.jsp
++ 2 footer.jsp
+assignment2/../footer.jsp
+*L
+1:62
+1#1,26:63
+26,32:89
+58,2:121,3
+60,9:127
+2#0,11:136
+13,4:148
+16,21:152
+36,84:173
+1#2,32:256
+*E

@@ -1,0 +1,24 @@
+SMAP
+RProducts_jsp.java
+JSP
+*S JSP
+*F
++ 0 RProducts.jsp
+RProducts.jsp
++ 1 header.jsp
+header.jsp
++ 2 footer.jsp
+footer.jsp
+*L
+1,6:62
+1#1,26:67
+26,7:93
+33,2:100,3
+35,17:106
+6#0,13:123
+20,26:137
+45,16:163
+61,4:180
+64,82:184
+1#2,32:265
+*E
